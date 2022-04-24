@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+learning to git branching 2
+chenge
+=======
+learning to git branching 3
+chenge
+>>>>>>> master
